@@ -1,14 +1,10 @@
 # Paste long text easily
-Chrome extension
+[![Current version on the Chrome Web Store](https://img.shields.io/chrome-web-store/v/dhonighchmchkhghhmnegegkciogailm.svg "Current version on the Chrome Web Store")](https://chrome.google.com/webstore/detail/paste-long-text/dhonighchmchkhghhmnegegkciogailm)
+[![Rating on the Chrome Web Store](https://img.shields.io/chrome-web-store/rating/dhonighchmchkhghhmnegegkciogailm.svg "Rating on the Chrome Web Store")](https://chrome.google.com/webstore/detail/english-hindi-dictionary/dhonighchmchkhghhmnegegkciogailm)
 
-![Download from chrome web store][1]
 
+:loudspeaker: A chrome extension to keep save your long text and frequently paste it with a click away.
 
-  [1]: https://i.stack.imgur.com/Nyc70.png
-  
-  https://chrome.google.com/webstore/detail/paste-long-text/dhonighchmchkhghhmnegegkciogailm
+> A pretty basic chrome extension which does a little, but does that extremely well.
 
-**Youtube Link:**
-
-[![Paste long text easily](https://img.youtube.com/vi/UBceUhXPNLQ/0.jpg)](https://www.youtube.com/watch?v=UBceUhXPNLQ)
-
+[![Try it now](https://raw.githubusercontent.com/shabdkosh/shabdkosh/master/available-chrome-web.png "Click here to Install")](https://chrome.google.com/webstore/detail/paste-long-text/dhonighchmchkhghhmnegegkciogailm)
